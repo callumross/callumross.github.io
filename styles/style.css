@@ -27,13 +27,15 @@
       -webkit-animation: scroll 5s infinite linear;
   }
 
-
+.message{
+    margin-bottom: 50px;
+}
 
 .main-pic{
 height:500px;
 width:500px;
 
-margin-bottom: 200px;
+margin-bottom: 150px;
 }
 
 .mr-happy{
